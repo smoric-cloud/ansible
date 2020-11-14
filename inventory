@@ -1,0 +1,5 @@
+[jenkinsservers]
+jenkins-server.morro.services.com
+
+[webservers]
+web-server.morro.services.com
